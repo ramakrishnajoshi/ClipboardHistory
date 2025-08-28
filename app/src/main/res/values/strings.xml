@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipboard History</string>
+    <string name="clipboard_history_title">Clipboard History</string>
+    <string name="no_clipboard_data">No clipboard history yet</string>
+    <string name="start_service">Start Monitoring</string>
+    <string name="stop_service">Stop Monitoring</string>
+    <string name="service_running">Clipboard monitoring is active</string>
+    <string name="service_stopped">Clipboard monitoring is stopped</string>
+</resources>
